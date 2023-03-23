@@ -1,0 +1,17 @@
+@media screen and (max-width:512) {
+  .container{
+    width: 60vw;
+    height: 100%;
+  }
+  header{
+    width: 40vw;
+    height: 60%;
+    display: block;
+  }
+  .iner-div{
+    width: 50vw;
+    height: 60%;
+
+  }
+  
+}
